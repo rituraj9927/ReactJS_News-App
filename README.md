@@ -33,7 +33,7 @@ To run the React News App on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/simranlotey/react-news-app.git
+
 ```
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ npm install
 npm start
 ```
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the app.
+5. Open your web browser and visit.
 
 ## Contributing
 
